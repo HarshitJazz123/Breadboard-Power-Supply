@@ -4,7 +4,8 @@ A custom 2 layer pcb , power supply board which fits directly onto breadboard
 
 A 2-layer breadboard power supply board designed in KiCad.
 
-![3D view](docs/pcb_3d.png)
+![3D view]<img width="790" height="765" alt="image" src="https://github.com/user-attachments/assets/618f80b5-3a92-43ef-b311-f3f26fc30280" />
+
 
 ## Specs
 - Input: <fill>
